@@ -2,4 +2,4 @@
 
 hello world 
 
-![/Users/jacksonlu/Desktop/Tabber.gif]
+![](/Users/jacksonlu/Desktop/Tabber.gif)
